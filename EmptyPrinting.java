@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
  */
 public class EmptyPrinting {
 
-	/**
+	/** 
 	 * 输出实体类
 	 * @param model
 	 */
